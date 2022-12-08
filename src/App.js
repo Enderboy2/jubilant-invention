@@ -36,7 +36,7 @@ export default function App() {
         <Title>Markdown Editor</Title>
         <EditorContainer>
           <MarkedInput />
-          <Result />
+          <Result / >
         </EditorContainer>
       </AppContainer>
     </EditorContext.Provider>
